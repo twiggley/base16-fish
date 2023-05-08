@@ -1,6 +1,8 @@
 # base16-fish (https://github.com/tomyun/base16-fish)
 # based on base16-shell (https://github.com/chriskempson/base16-shell)
-# Gruvbox dark, hard scheme by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Catppuccin Mocha scheme by Catppuccin Org (https://github.com/catppuccin)
+# Referenced catppuccin/base16 (https://github.com/catppuccin/base16) and
+# catppuccin/iterm (https://github.com/catppuccin/iterm)
 
 function base16-catppuccin-mocha -d "Catppuccin Mocha"
   set color00 1e/1e/2e # Base 00 - Black/Base
