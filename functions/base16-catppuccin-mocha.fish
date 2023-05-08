@@ -2,7 +2,8 @@
 # based on base16-shell (https://github.com/chriskempson/base16-shell)
 # Catppuccin Mocha scheme by Catppuccin Org (https://github.com/catppuccin)
 # Referenced catppuccin/base16 (https://github.com/catppuccin/base16) and
-# catppuccin/iterm (https://github.com/catppuccin/iterm)
+# catppuccin/iterm (https://github.com/catppuccin/iterm) and
+# catppuccin/fish (https://github.com/catppuccin/fish)
 
 function base16-catppuccin-mocha -d "Catppuccin Mocha"
   set color00 1e/1e/2e # Base 00 - Black/Base
